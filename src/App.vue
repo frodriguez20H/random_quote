@@ -54,9 +54,9 @@ export default {
 <style lang="scss">
 @import url('https://fonts.googleapis.com/css2?family=Josefin+Sans:wght@700&family=Playpen+Sans:wght@600&display=swap');
 :root {
-  --primary: #d81e5b;
-  --secondary: #8a4fff;
-  --tertiary: #32cbff;
+  --primary: #06a0f8;
+  --secondary: #694fff;
+  --tertiary: #32ffd3;
   --dark: #131a26;
   --light: #eee;
   --grey: #848484;
