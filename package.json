@@ -4,6 +4,7 @@
   "private": true,
   "type": "module",
   "scripts": {
+    "deploy": "node scripts/gh-pages-deploy.js",
     "serve": "vite serve",
     "dev": "vite",
     "build": "vite build",
@@ -18,6 +19,7 @@
     "vue": "^3.3.11"
   },
   "devDependencies": {
+    "execa": "latest",
     "@vitejs/plugin-vue": "^4.5.2",
     "node-sass": "^9.0.0",
     "sass": "^1.69.7",
