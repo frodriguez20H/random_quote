@@ -1,6 +1,8 @@
 # random_quote
 Project for Front End Development Libraries freeCodeCamp
 
+## Original source of the project
+Github: [vuejs-quote-generator](https://github.com/TylerPottsDev/vuejs-quote-generator)
 
 This template should help get you started developing with Vue 3 in Vite.
 
